@@ -17,13 +17,3 @@ I received the M.S. degree in Information and Communication Engineering from Nan
 # 🔥 News
 
 Jan. 2025 – Launched personal blog.
-
- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<!-- pv的方式，单个用户连续点击n篇文章，记录n次访问量 -->
-<span id="busuanzi_container_site_pv">
-    Total <span id="busuanzi_value_site_pv"></span> views.
-</span>
-<!-- uv的方式，单个用户连续点击n篇文章，只记录1次访客数 -->
-<span id="busuanzi_container_site_uv">
-  Total <span id="busuanzi_value_site_uv"></span> visitors.
-</span>

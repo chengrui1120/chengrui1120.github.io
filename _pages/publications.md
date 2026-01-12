@@ -12,12 +12,3 @@ sidebar: true
 
 1. X. Chen, J. Cao, **C. Zhou**, Q. Sun and J. Zhang, "[Performance of Cell-Free Massive MIMO Systems With Channel Aging and Phase Noise Over Rician Fading Channels](https://ieeexplore.ieee.org/document/11045838)," IEEE Trans. Veh. Technol., vol. 74, no. 11, pp. 17765-17778, Nov. 2025. (Early access)
 
-<!-- 
-# 📖 Book Chapters {#book-chapters}
-
-# 📑 Journals (Lead)  {#journal-lead}
-
-# 🤝 Journals (Co-author)  {#journal-coauthor}
-
-# 🎤 Conferences  {#conferences} -->
-
