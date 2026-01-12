@@ -7,7 +7,7 @@ sidebar: true
 
 
  
-
+<!-- 
 # 🏆 Honors &amp; Awards
 - **Aug. 2025** - Listed among the World's Top 2% Most-Cited Scientists, Stanford University.
 - **Aug. 2024** - Listed among the World's Top 2% Most-Cited Scientists, Stanford University.
@@ -17,4 +17,4 @@ sidebar: true
 - **Oct. 2020** - National Scholarship, Ministry of Education of China.
 - **Jun. 2018** - Excellent Undergraduate Student, Dalian University of Technology.
 
- 
+  -->

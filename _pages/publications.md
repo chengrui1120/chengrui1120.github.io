@@ -15,7 +15,7 @@ sidebar: true
 </nav>
 
 
-# 📖 Book Chapters {#book-chapters}
+<!-- # 📖 Book Chapters {#book-chapters}
 
 
 - M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' 
@@ -285,6 +285,6 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 2.	H. Li, **Rang Liu**, M. Li, Q. Liu, and X. Li, "[IRS-enhanced wideband MU-MISO-OFDM communication systems](https://ieeexplore.ieee.org/document/9120639)," in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Seoul, Korea (South), May 2020.
 
 
-1.	H. Li, **Rang Liu**, M. Li, and Q. Liu, "[FP-based hybrid precoding with dynamic subarrays and low-resolution PSs](https://ieeexplore.ieee.org/document/8928111)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Xian, China, Oct. 2019.
+1.	H. Li, **Rang Liu**, M. Li, and Q. Liu, "[FP-based hybrid precoding with dynamic subarrays and low-resolution PSs](https://ieeexplore.ieee.org/document/8928111)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Xian, China, Oct. 2019. -->
 
  
