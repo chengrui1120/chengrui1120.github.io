@@ -9,22 +9,22 @@ sidebar: true
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, 
+<!-- I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, 
 and the Ph.D. degree from School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. 
 My Ph. D. advisor is [Prof. Ming Li](https://www.minglabdut.com/index.html). 
 I am currently a Postdoctoral Scholar working with [Prof. Swindlehurst](https://github.com/LS-Wireless) at the Department of Electrical 
 Engineering and Computer Science, University of California, Irvine.
 My research interests focus on optimization and signal processing in wireless communication systems, with an emphasis on massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communications.
- 
+  -->
 
 
 # 🔥 News
-- **Aug. 2025** – Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.
+<!-- - **Aug. 2025** – Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.
 - **Aug. 2024** – Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.
 - **Mar. 2024** – Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]
 - **Sep. 2023** – Started postdoctoral research at UCI.  
 - **Jul. 2023** – Successfully defended doctoral dissertation.  
-- **Jul. 2022** – Launched personal blog.  
+- **Jul. 2022** – Launched personal blog.   -->
 
 
 
