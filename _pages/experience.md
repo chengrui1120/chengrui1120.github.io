@@ -14,12 +14,5 @@ sidebar: true
 # 🏫 Academic Positions
 - **Sep. 2023 - Present**: Postdoctoral Scholar, University of California, Irvine.
 
-
 # 👩‍🎓 Education
-- **Sep. 2020 - Sep. 2023**: Ph.D. in Information and Communication Engineering, Dalian University of Technology.
-    <a href="/RangLiu_PhD_Dissertation.pdf"> Download Ph.D. Dissertation </a>
-- **Sep. 2014 - Jun. 2018**: B.Eng. in Electronic and Information Engineering, Dalian University of Technology.
-
- -->
-
-
+- **Sep. 2022 - Jun. 2025**: M.Eng. in Electronic and Information Engineering, Nantong University.
