@@ -9,7 +9,6 @@
 title: "Chengrui Zhou"
 description: "PhD student"
 repository: "chengrui1120/chengrui1120.github.io"
-google_scholar_stats_use_cdn: true
 
 # google analytics
 google_analytics_id: 324368529 # get google_analytics_id from https://analytics.google.com/analytics/
@@ -65,7 +64,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
