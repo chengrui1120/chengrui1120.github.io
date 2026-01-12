@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Chengrui Zhou"
-description: "Postdoc"
+description: "PhD student"
 repository: "chengrui1120/chengrui1120.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -27,9 +27,9 @@ author:
   location: "Beijing, China"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
+  # googlescholar: "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
   email: "chengrui@bjtu.edu.cn"
-  researchgate: "https://www.researchgate.net/profile/Rang-Liu-3"
+  # researchgate: "https://www.researchgate.net/profile/Rang-Liu-3"
   uri:
   bitbucket:
   codepen:
