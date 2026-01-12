@@ -5,14 +5,14 @@ permalink: /publications/
 sidebar: true
 ---
  
-<nav class="subnav">
+<!-- <nav class="subnav">
   <ul>
     <li><a href="#book-chapters">📖 Book Chapters</a></li>
     <li><a href="#journal">📄 Journals</a></li>
     <!-- <li><a href="#journal-coauthor">🤝 Journals (Co-author)</a></li> -->
     <li><a href="#conferences">🎤 Conferences</a></li>
   </ul>
-</nav>
+</nav> -->
 
 
 
